@@ -1,0 +1,13 @@
+
+Test technique pour le poste de Développeur Front-End / Intégrateur Web   Merci d'avoir accepté de participer à notre test technique pour le poste de Développeur Front-End / Intégrateur Web. Ce test vise à évaluer vos compétences dans le développement web, la conception d'interfaces utilisateur, ainsi que votre capacité à intégrer des designs complexes.  Vous trouverez ci-dessous les maquettes d'une page web à réaliser. Votre tâche consiste à convertir ces maquettes en une page web fonctionnelle et responsive en utilisant HTML, CSS et JavaScript si nécessaire. 
+Lien de la maquette : https://xd.adobe.com/view/d4f1316b-b5f9-4efc-ac42-b2fdfe5b7330-81a2/specs/
+
+Vous pouvez décider d'en réaliser tout ou partie dépendant du temps que vous souhaitez et pourrez y accorder. 
+* Vous trouverez ci-dessous les maquettes d'une page web à réaliser. Votre tâche consiste à convertir ces maquettes en une page web fonctionnelle en utilisant HTML, CSS et JavaScript si nécessaire.
+* Veuillez respecter les normes de codage, notamment en termes de sémantique HTML, de styles CSS modulaires et de lisibilité du code JavaScript.
+* Vous êtes libre d'utiliser des frameworks ou des bibliothèques CSS (TailwindCSS recommandé) et JavaScript si vous le jugez nécessaire, mais n'hésitez-pas à justifier votre choix.
+* Veuillez soumettre votre solution sous forme d'un dépôt Git public sur une plateforme comme GitHub, GitLab ou Bitbucket. Assurez-vous que le dépôt contienne tous les fichiers nécessaires à l'exécution de la page, y compris les fichiers HTML, CSS, JavaScript, et tout autre élément tel que des images ou des polices personnalisées.
+
+La maquette fournie est conçue pour une vue desktop. Vous avez la liberté de choisir la meilleure approche pour rendre la page responsive sur mobile. Assurez-vous que l'expérience utilisateur reste cohérente et intuitive sur toutes les tailles d'écran. Nous serons attentifs à votre créativité et à votre capacité à prendre des décisions en matière de conception adaptative lors de l'évaluation de votre travail.
+  Une fois que vous avez terminé, veuillez partager le lien vers votre dépôt Git, assurez-vous que le dépôt est accessible en lecture pour les personnes disposant du lien.  N'hésitez-pas à nous remonter le temps que vous y avez passé et à décrire certains de vos choix techniques si vous avez des choses à nous remonter. 
+Merci encore pour votre participation. Nous avons hâte de découvrir votre travail !
