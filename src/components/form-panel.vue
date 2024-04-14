@@ -14,23 +14,23 @@ const thirdPanelThirdValue = ref(0)
 </script>
 
 <template>
-  <div class="p-40">
-    <div class="text-white text-left">
-      <p style="font-size: 50px; letter-spacing: -2.5px">
+  <div>
+    <div class="text-white text-left grid grid-cols-12 mt-12">
+      <p class="col-start-3 col-span-8" style="font-size: 50px; letter-spacing: -2.5px">
         Lorem ipsum dolor sit amet, consectetur adipiscing.
       </p>
     </div>
     <!-- component -->
     <div>
-      <div class='flex items-center justify-center'>
-        <ul class="grid w-2/5 grid-cols-3 px-8 text-xs">
+      <div class='flex ml-52 mt-12'>
+        <ul class="grid w-2/5 grid-cols-3 text-xs" style="padding-left: 4px">
           <li class="">
             <input class="peer sr-only" type="radio" value="yes" name="answer" id="yes" checked/>
             <label
                 class="flex justify-center uppercase cursor-pointer bg-white py-2 px-4 hover:bg-gray-50 focus:outline-none peer-checked:border-transparent peer-checked:bg-[#EA516F] peer-checked:text-white transition-all duration-500 ease-in-out"
                 for="yes">Lorem Ipsum</label>
             <div
-                class="absolute bg-white shadow-lg left-0 p-6 w-4/5 mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
+                class="ml-52 absolute bg-white shadow-lg left-0 p-6 w-4/5 mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
 
               <div class="flex grid grid-cols-12 font-bold">
                 <div class="col-span-2 mr-8">
@@ -68,7 +68,7 @@ const thirdPanelThirdValue = ref(0)
                 class="flex justify-center uppercase cursor-pointer bg-white py-2 px-4 hover:bg-gray-50 focus:outline-none peer-checked:border-transparent peer-checked:bg-[#EA516F] peer-checked:text-white transition-all duration-500 ease-in-out"
                 for="no">Lorem Ipsum</label>
             <div
-                class="absolute bg-white shadow-lg left-0 p-6 w-[97vw] mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
+                class="ml-52 absolute bg-white shadow-lg left-0 p-6 w-4/5 mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
 
               <div class="flex grid grid-cols-12 font-bold">
                 <div class="col-span-2 mr-8">
@@ -106,7 +106,7 @@ const thirdPanelThirdValue = ref(0)
                 class="flex justify-center uppercase cursor-pointer bg-white py-2 px-4 hover:bg-gray-50 focus:outline-none peer-checked:border-transparent peer-checked:bg-[#EA516F] peer-checked:text-white transition-all duration-500 ease-in-out"
                 for="yesno">Lorem Ipsum</label>
             <div
-                class="absolute bg-white shadow-lg left-0 p-6 w-[97vw] mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
+                class="ml-52 absolute bg-white shadow-lg left-0 p-6 w-4/5 mx-auto transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-1">
 
               <div class="flex grid grid-cols-12 font-bold">
                 <div class="col-span-2 mr-8">

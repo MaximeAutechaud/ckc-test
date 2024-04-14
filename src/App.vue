@@ -112,7 +112,7 @@
           </svg>
         </button>
       </div>
-      <div class="col-span-7 img6 relative mt-12">
+      <div class="col-span-7 img6 relative mt-12 text-left">
         <div class="m-4" style="position: absolute; bottom: 0; left: 0">
           <p class="text-white" style="font-size: 30px; letter-spacing: -1.5px">
             Lorem Ipsum
