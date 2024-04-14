@@ -4,13 +4,13 @@
 
 1. Build l'image à partir du `Dockerfile`
 ```bash
-docker-compose build
+docker compose build
 ```
 
 2. Démarrer le serveur
 
 ```bash
-docker-compose up app
+docker compose up app
 ```
 
 3. Le projet run sur `localhost:8080`
