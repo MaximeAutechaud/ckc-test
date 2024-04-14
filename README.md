@@ -1,24 +1,19 @@
-# app
+### Prérequis pour initaliser le projet
 
-## Project setup
-```
-yarn install
-```
+`docker >= 25.^` et `docker compose >= 2.3.^`
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+1. Build l'image à partir du `Dockerfile`
+```bash
+docker-compose build
 ```
 
-### Compiles and minifies for production
-```
-yarn build
+2. Démarrer le serveur
+
+```bash
+docker-compose up app
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+3. Le projet run sur `localhost:8080`
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Maquette à réaliser https://xd.adobe.com/view/d4f1316b-b5f9-4efc-ac42-b2fdfe5b7330-81a2/specs/
